@@ -1,0 +1,7 @@
+.to-do-form{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  padding: 0px 40px ;
+}
